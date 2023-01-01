@@ -1,4 +1,4 @@
-print("Practical No 3 \nName : Krushna Babasaheb Dhadge [SE-A]")
+
 def accept (m,row,col) :
     for i in range (row) :
         c=[]
