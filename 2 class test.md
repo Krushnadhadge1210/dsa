@@ -1,4 +1,4 @@
-print("Practical No 2 \nName : Krushna Babasaheb Dhadge [SE-A]")
+
 marks=[13,12,22,20,23,24,25,'ab',25,21,25,'ab',22,'ab',25,28,'ab']
 List1 = []
 List2 = []
